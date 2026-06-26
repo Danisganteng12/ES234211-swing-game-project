@@ -110,6 +110,7 @@ public class PlayerService {
             conn.close();
         } catch (Exception e) {
             System.out.println("TopScorers error: " + e.getMessage());
+
         }
         return list;
     }

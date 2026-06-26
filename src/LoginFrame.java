@@ -77,6 +77,7 @@ public class LoginFrame extends JFrame {
                 } else {
                     JOptionPane.showMessageDialog(LoginFrame.this, "Invalid username or password!");
                 }
+
             }
         });
     }

@@ -68,5 +68,6 @@ public class StatisticsFrame extends JFrame {
 
         panel.add(lbl);
         panel.add(val);
+
     }
 }

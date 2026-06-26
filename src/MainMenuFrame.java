@@ -96,4 +96,5 @@ public class MainMenuFrame extends JFrame {
         btn.setPreferredSize(new Dimension(0, 45));
         return btn;
     }
+
 }

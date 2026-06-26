@@ -183,5 +183,6 @@ public class GameFrame extends JFrame {
             menuFrame.setVisible(true);
             dispose();
         }
+
     }
 }

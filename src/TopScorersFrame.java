@@ -82,5 +82,6 @@ public class TopScorersFrame extends JFrame {
         mainPanel.add(btnPanel, BorderLayout.SOUTH);
 
         add(mainPanel);
+
     }
 }
