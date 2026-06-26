@@ -2,10 +2,7 @@
 
 ## Identitas Mahasiswa
 
-Nama - Daniswara Asyam Rahmada
-NRP - 5026251215 
-Kelas - E
-Mata Kuliah - Dasar Pemrograman
+Daniswara Asyam Rahmada - 5026251215 - Dasar Pemrograman - E
 
 # Aplikasi Game Tic-Tac-Toe Sederhana dengan Java Swing, Login, dan Statistik
 ---
