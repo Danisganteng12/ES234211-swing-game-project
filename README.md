@@ -160,7 +160,7 @@ Window Swing yang menampilkan 5 pemain dengan skor tertinggi menggunakan kompone
 
 ## Link Video
 
-YouTube: [https://youtu.be/H6DbM_7WlXg](screenshots/top-scorers-window1.png)
+YouTube: [https://youtu.be/H6DbM_7WlXg
 
 ---
 
