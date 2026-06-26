@@ -142,25 +142,25 @@ Window Swing yang menampilkan 5 pemain dengan skor tertinggi menggunakan kompone
 ## Screenshots
 
 ### Login Window
-![Login Window](screenshots/login-window.png)
+![Login Window](screenshots/login-window1.png)
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/main-menu1.png)
 
 ### Game Window
-![Game Window](screenshots/game-window.png)
+![Game Window](screenshots/game-window1.png)
 
 ### My Statistics
-![Statistics Window](screenshots/statistics-window.png)
+![Statistics Window](screenshots/statistics-window1.png)
 
 ### Top 5 Scorers
-![Top Scorers Window](screenshots/top-scorers-window.png)
+![Top Scorers Window](screenshots/top-scorers-window1.png)
 
 ---
 
 ## Link Video
 
-YouTube: [https://youtu.be/H6DbM_7WlXg](screenshots/top-scorers-window.png)
+YouTube: [https://youtu.be/H6DbM_7WlXg](screenshots/top-scorers-window1.png)
 
 ---
 

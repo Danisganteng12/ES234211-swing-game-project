@@ -11,6 +11,7 @@ CREATE TABLE players (
     score INT DEFAULT 0
 );
 
+
 -- Insert 5 sample user untuk testing
 INSERT INTO players (username, password, wins, losses, draws, score)
 VALUES 
